@@ -69,16 +69,16 @@ It highlights key metrics such as **Revenue, Profit, Orders and Profit Margins**
 - **Dashboard View**  
   ![Dashboard](Screenshots/Dashboard.png)  
 
-- **Data Story 1 – Central Region**  
+- **Data Story 1 – West Region**  
   ![West Region](Screenshots/DataStory-1.png)  
 
-- **Data Story 2 – NYC Best Performer**  
+- **Data Story 2 – California State performance**  
   ![California Performance](Screenshots/DataStory-2.png)  
 
-- **Data Story 3 – November Peak Sales**  
+- **Data Story 3 – Most Profitable Category**  
   ![Category Sales](Screenshots/DataStory-3.png)
   
-- **Data Story 3 – November Peak Sales**  
+- **Data Story 3 – Last year sales**
   ![Last year Sales](Screenshots/DataStory-4.png)  
 
 ---
